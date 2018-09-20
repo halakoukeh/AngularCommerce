@@ -1,1 +1,3 @@
 # AngularCommerce
+
+https://malcoded.com/posts/angular-dynamic-components
